@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\IT105L\Activity 4\Mapote_Activity4_C11_IT105L\Mapote_Activity4_C11_IT105L\bin\Debug\Mapote_Activity4_C11_IT105L.exe.config
+C:\Users\admin\Desktop\IT105L\Activity 4\Mapote_Activity4_C11_IT105L\Mapote_Activity4_C11_IT105L\bin\Debug\Mapote_Activity4_C11_IT105L.exe
+C:\Users\admin\Desktop\IT105L\Activity 4\Mapote_Activity4_C11_IT105L\Mapote_Activity4_C11_IT105L\bin\Debug\Mapote_Activity4_C11_IT105L.pdb
+C:\Users\admin\Desktop\IT105L\Activity 4\Mapote_Activity4_C11_IT105L\Mapote_Activity4_C11_IT105L\obj\Debug\Mapote_Activity4_C11_IT105L.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\IT105L\Activity 4\Mapote_Activity4_C11_IT105L\Mapote_Activity4_C11_IT105L\obj\Debug\Mapote_Activity4_C11_IT105L.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\IT105L\Activity 4\Mapote_Activity4_C11_IT105L\Mapote_Activity4_C11_IT105L\obj\Debug\Mapote_Activity4_C11_IT105L.Activity4.resources
+C:\Users\admin\Desktop\IT105L\Activity 4\Mapote_Activity4_C11_IT105L\Mapote_Activity4_C11_IT105L\obj\Debug\Mapote_Activity4_C11_IT105L.Properties.Resources.resources
+C:\Users\admin\Desktop\IT105L\Activity 4\Mapote_Activity4_C11_IT105L\Mapote_Activity4_C11_IT105L\obj\Debug\Mapote_Activity4_C11_IT105L.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\IT105L\Activity 4\Mapote_Activity4_C11_IT105L\Mapote_Activity4_C11_IT105L\obj\Debug\Mapote_Activity4_C11_IT105L.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\IT105L\Activity 4\Mapote_Activity4_C11_IT105L\Mapote_Activity4_C11_IT105L\obj\Debug\Mapote_Activity4_C11_IT105L.exe
+C:\Users\admin\Desktop\IT105L\Activity 4\Mapote_Activity4_C11_IT105L\Mapote_Activity4_C11_IT105L\obj\Debug\Mapote_Activity4_C11_IT105L.pdb
